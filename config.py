@@ -4,12 +4,12 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID    = os.environ.get("API_ID", 7414019)
-    API_HASH  = os.environ.get("API_HASH", "d463ed3d695f5cd4164029405ad8388e")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    API_ID    = os.environ.get("28744454", 7414019)
+    API_HASH  = os.environ.get("API_HASH", "debd37cef0ad1a1ce45d0be8e8c3c5e7")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7629093637:AAELMuIlnb0eJSikh28KRLhBmmsEy2gfviI")
    
     # database config
-    DB_NAME = os.environ.get("DB_NAME","Zoro")
+    DB_NAME = os.environ.get("DB_NAME","Renamex")
     DB_URL  = os.environ.get("DB_URL","")
  
     # other configs
@@ -63,13 +63,13 @@ Bɪɢ ᴛʜᴀɴᴋs ғᴏʀ ʙᴇɪɴɢ ᴛʜᴇ sᴜᴘᴘᴏʀᴛ sᴜᴘᴇ�
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @GeekLuffy🙏🥲
     ABOUT_TXT = """<b>
-» ᴅᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/GeekLuffy>ʟᴜꜰꜰʏ</a>
+» Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/GeekLuffy>ʟᴜꜰꜰʏ</a>
 » ɢɪᴛʜᴜʙ :  <a href=https://github.com/GeekLuffy/>ʟᴜꜰꜰʏ</a>
 » ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
 » ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ</a>
-» ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/Monkey_d_luufy>ᴇᴅɢᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ</a>
-» ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Edge>ᴀɴɪᴍᴇ ᴇᴅɢᴇ</a>
-» ᴍᴀɪɴ ɢʀᴏᴜᴘ : <a href=https://t.me/straw_hat_piratess>ꜱᴛʀᴀᴡʜᴀᴛ ᴘɪʀᴀᴛᴇꜱ</a></b>"""
+» Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/JeffySama>ᴇᴅɢᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ</a>
+» Mᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Weekends>ᴀɴɪᴍᴇ ᴇᴅɢᴇ</a>
+» Mᴀɪɴ ɢʀᴏᴜᴘ : <a href=https://t.me/Weebs_Weekends>ꜱᴛʀᴀᴡʜᴀᴛ ᴘɪʀᴀᴛᴇꜱ</a></b>"""
 
     META_TXT = """
 **ᴍᴀɴᴀɢɪɴɢ ᴍᴇᴛᴀᴅᴀᴛᴀ ғᴏʀ ʏᴏᴜʀ ᴠɪᴅᴇᴏs ᴀɴᴅ ғɪʟᴇs**
