@@ -106,7 +106,7 @@ async def doc(bot, update):
             new_filename = new_filename_
     except:
         await update.message.edit(
-            "⚠️ Something went wrong can't able to set Prefix or Suffix in the File ☹️ \n\n Contact in Support Group for Help -> @EdgeBotSupport")
+            "⚠️ Something went wrong can't able to set Prefix or Suffix in the File ☹️ \n\n Contact in Support Group for Help -> @Weebs_Weekends")
 
     file_path = f"downloads/{new_filename}"
     file = update.message.reply_to_message
@@ -114,7 +114,7 @@ async def doc(bot, update):
     ms = await update.message.edit("`Trying To Downloading`")
     try:
         path = await bot.download_media(message=file, file_name=file_path, progress=progress_for_pyrogram,
-                                        progress_args=("`Download Started....`", ms, time.time()))
+                                        progress_args=("`Ara Ara Download Started....`", ms, time.time()))
     except Exception as e:
         return await ms.edit(e)
 
