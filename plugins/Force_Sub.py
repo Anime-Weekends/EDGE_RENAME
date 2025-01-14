@@ -28,8 +28,8 @@ async def forces_sub(client, message):
 
     buttons = [
         [
-            InlineKeyboardButton(text="⚡️ Jᴏɪɴ ᴄʜᴀɴɴᴇʟ 1 ⚡️", url=f"https://t.me/{Config.FORCE_SUB_1}"),
-            InlineKeyboardButton(text="⚡️ Jᴏɪɴ ᴄʜᴀɴɴᴇʟ 2 ⚡️", url=f"https://t.me/{Config.FORCE_SUB_2}")
+            InlineKeyboardButton(text="• Jᴏɪɴ ᴄʜᴀɴɴᴇʟ 1 •", url=f"https://t.me/{Config.FORCE_SUB_1}"),
+            InlineKeyboardButton(text="• Jᴏɪɴ ᴄʜᴀɴɴᴇʟ 2 •", url=f"https://t.me/{Config.FORCE_SUB_2}")
         ],
         [
             InlineKeyboardButton(text="Verify Membership", callback_data="check_joined")
