@@ -4,7 +4,7 @@ id_pattern = re.compile(r'^.\d+$')
 
 class Config(object):
     # pyro client config
-    API_ID    = os.environ.get("28744454", 28744454)
+    API_ID    = os.environ.get("API_ID", 28744454)
     API_HASH  = os.environ.get("API_HASH", "debd37cef0ad1a1ce45d0be8e8c3c5e7")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7629093637:AAELMuIlnb0eJSikh28KRLhBmmsEy2gfviI")
    
@@ -15,7 +15,7 @@ class Config(object):
     # other configs
     BOT_UPTIME  = time.time()
     START_PIC   = os.environ.get("START_PIC", "https://envs.sh/vrW.jpg")
-    ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '1350488685').split()]
+    ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '6266529037').split()]
     FORCE_SUB_1 = os.environ.get("FORCE_SUB_1", "-1002076655534")
     FORCE_SUB_2 = os.environ.get("FORCE_SUB_2", "-1002076989748")
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002402968652"))
