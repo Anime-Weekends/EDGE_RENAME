@@ -63,13 +63,13 @@ Bɪɢ ᴛʜᴀɴᴋs ғᴏʀ ʙᴇɪɴɢ ᴛʜᴇ sᴜᴘᴘᴏʀᴛ sᴜᴘᴇ�
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @GeekLuffy🙏🥲
     ABOUT_TXT = """<b>
-» Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/GeekLuffy>ʟᴜꜰꜰʏ</a>
-» ɢɪᴛʜᴜʙ :  <a href=https://github.com/GeekLuffy/>ʟᴜꜰꜰʏ</a>
+» Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/JeffySama>Jᴇғғʏsᴀᴍᴀ</a>
+» Nᴇᴛᴡᴏʀᴋ :  <a href=https://t.me/Eminence_Society/>Nᴇᴛᴡᴏʀᴋ</a>
 » ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
 » ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ</a>
-» Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://t.me/JeffySama>ᴇᴅɢᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ</a>
-» Mᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Weekends>ᴀɴɪᴍᴇ ᴇᴅɢᴇ</a>
-» Mᴀɪɴ ɢʀᴏᴜᴘ : <a href=https://t.me/Weebs_Weekends>ꜱᴛʀᴀᴡʜᴀᴛ ᴘɪʀᴀᴛᴇꜱ</a></b>"""
+» Mᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_StarDust>Aɴɪᴍᴇ sᴛᴀʀᴅᴜsᴛ</a>
+» Mᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Weekends>Aɴɪᴍᴇ ᴡᴇᴇᴋᴇɴᴅs</a>
+» Mᴀɪɴ ɢʀᴏᴜᴘ : <a href=https://t.me/Weebs_Weekends>Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a></b>"""
 
     META_TXT = """
 **ᴍᴀɴᴀɢɪɴɢ ᴍᴇᴛᴀᴅᴀᴛᴀ ғᴏʀ ʏᴏᴜʀ ᴠɪᴅᴇᴏs ᴀɴᴅ ғɪʟᴇs**
