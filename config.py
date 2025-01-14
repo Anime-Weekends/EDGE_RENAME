@@ -65,8 +65,8 @@ Bɪɢ ᴛʜᴀɴᴋs ғᴏʀ ʙᴇɪɴɢ ᴛʜᴇ sᴜᴘᴘᴏʀᴛ sᴜᴘᴇ�
     ABOUT_TXT = """<b>
 » Dᴇᴠᴇʟᴏᴩᴇʀ : <a href=https://t.me/JeffySama>Jᴇғғʏsᴀᴍᴀ</a>
 » Nᴇᴛᴡᴏʀᴋ :  <a href=https://t.me/Eminence_Society/>Nᴇᴛᴡᴏʀᴋ</a>
-» ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
-» ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ</a>
+» Bᴏᴛ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/EmitingStars_Botz>Mᴏʀᴇ Bᴏᴛᴢ</a>
+» Assɪsᴛᴀɴᴛ : <a href=https://t.me/Alisa_Zoe>Pᴏᴏᴋɪᴇ</a>
 » Mᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_StarDust>Aɴɪᴍᴇ sᴛᴀʀᴅᴜsᴛ</a>
 » Mᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Weekends>Aɴɪᴍᴇ ᴡᴇᴇᴋᴇɴᴅs</a>
 » Mᴀɪɴ ɢʀᴏᴜᴘ : <a href=https://t.me/Weebs_Weekends>Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</a></b>"""
