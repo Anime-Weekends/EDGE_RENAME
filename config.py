@@ -18,7 +18,7 @@ class Config(object):
     ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '1350488685').split()]
     FORCE_SUB_1 = os.environ.get("FORCE_SUB_1", "EdgeBotSupport")
     FORCE_SUB_2 = os.environ.get("FORCE_SUB_2", "EdgeBots")
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1001863937035))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001863937035"))
     DUMP_CHANNEL = int(os.environ.get("DUMP_CHANNEL", "-1002131803512"))
 
     # wes response configuration     
