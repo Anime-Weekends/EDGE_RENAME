@@ -10,11 +10,11 @@ class Config(object):
    
     # database config
     DB_NAME = os.environ.get("DB_NAME","Renamex")
-    DB_URL  = os.environ.get("DB_URL","")
+    DB_URL  = os.environ.get("DB_URL","mongodb+srv://jeffymoses123:jeffymoses123@cluster0.ybmj0.mongodb.net/?retryWrites=true&w=majority")
  
     # other configs
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "")
+    START_PIC   = os.environ.get("START_PIC", "https://envs.sh/vrW.jpg")
     ADMIN       = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '1350488685').split()]
     FORCE_SUB_1 = os.environ.get("FORCE_SUB_1", "-1002076655534")
     FORCE_SUB_2 = os.environ.get("FORCE_SUB_2", "-1002076989748")
